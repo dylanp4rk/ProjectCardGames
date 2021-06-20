@@ -7,7 +7,7 @@ package projectcardgames;
 
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
- * @author Dylan Park, William Klemmer, Miguel David Joshua
+ * @author Dylan Park, William Klemmer, Joshua Miguel David
  */
 public abstract class Player 
 {
